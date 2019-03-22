@@ -52,8 +52,8 @@
 }
 
 .bg-primary {
-	background: #333;
-	color: #f7c0a8;
+	background: #f7c0a8;
+	color: #333;
 }
 
 /* Main Styling */
@@ -159,4 +159,16 @@ p {
 
 .home-info .info-content p {
 	padding-bottom: 30px;
+}
+
+/* Features */
+.box {
+	float: left;
+	width: 33.3%;
+	padding: 50px;
+	text-align: center;
+}
+
+.box i {
+	margin-bottom: 10px;
 }
